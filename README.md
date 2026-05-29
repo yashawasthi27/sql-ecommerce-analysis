@@ -107,6 +107,6 @@ Open analysis.sql → Run queries one by one (select + F5)
 
 ## 🔗 Connect
 
-**LinkedIn:** [linkedin.com/in/yashawasthi27](https://linkedin.com/in/yashawasthi27)
-**GitHub:** [github.com/yashawasthi27](https://github.com/yashawasthi27)
+**LinkedIn:** [linkedin.com/in/yashawasthi27](https://linkedin.com/in/yashawasthi27)<br>
+**GitHub:** [github.com/yashawasthi27](https://github.com/yashawasthi27)<br>
 **Portfolio:** [yashawasthi27.github.io/Portfolio](https://yashawasthi27.github.io/Portfolio/)
