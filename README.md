@@ -57,30 +57,6 @@ customers ──< orders ──< order_items >── products >── categories
 
 ---
 
-## 🚀 How to Run
-
-**Step 1 — Create the database in pgAdmin:**
-```sql
-CREATE DATABASE ecommerce_analysis;
-```
-
-**Step 2 — Run schema file:**
-```
-Open schema.sql in pgAdmin Query Tool → Run (F5)
-```
-
-**Step 3 — Load the data:**
-```
-Open data.sql → Run (F5)
-```
-
-**Step 4 — Run analysis queries:**
-```
-Open analysis.sql → Run queries one by one (select + F5)
-```
-
----
-
 ## 🛠️ Skills Demonstrated
 
 - Complex **JOINs** (multi-table)
