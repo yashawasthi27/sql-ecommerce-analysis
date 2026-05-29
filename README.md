@@ -1,6 +1,6 @@
 # 🛒 Retail Sales Performance Analysis — SQL Project
 
-**Tool:** PostgreSQL (SQL) | **Author:** Yash Awasthi | **Domain:** E-Commerce / Retail Analytics
+**Tool:** PostgreSQL | **Author:** Yash Awasthi | **Domain:** E-Commerce / Retail Analytics
 
 ---
 
